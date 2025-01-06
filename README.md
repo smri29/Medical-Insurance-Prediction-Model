@@ -64,4 +64,4 @@ This project demonstrates a machine learning application using Flask and linear 
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
