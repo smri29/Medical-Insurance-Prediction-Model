@@ -62,6 +62,11 @@ This project demonstrates a machine learning application using Flask and linear 
 
 6. Open your web browser and go to `http://127.0.0.1:5000/`.
 
+### App Interface
+Here is how the app interface looks:
+
+![App Interface](model.png)
+
 ## License
 
 This project is licensed under the MIT License.
